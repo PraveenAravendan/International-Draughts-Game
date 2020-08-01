@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/Design Patterns/Chain of Responsibility.iml" filepath="$USER_HOME$/Desktop/Design Patterns/Chain of Responsibility.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Design Patterns2/Decorator.iml" filepath="$USER_HOME$/Desktop/Design Patterns2/Decorator.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Design Patterns/Design Patterns.iml" filepath="$USER_HOME$/Desktop/Design Patterns/Design Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GameFramework.iml" filepath="$PROJECT_DIR$/GameFramework.iml" />
+    </modules>
+  </component>
+</project>

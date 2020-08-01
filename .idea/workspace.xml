@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b108225-4e2e-4dd7-a613-c2fb5252e23f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aNu9img5ea6aVbAhNr01GYYlOS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Design Patterns2/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.YAML" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="main.java.model" />
+      <recent name="main.java.internationalDraughtsTeam4" />
+      <recent name="main.java.model.board" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\prave\Desktop\Design Patterns2\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.InternationalDraughtsController">
+    <configuration name="InternationalDraughtsController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.internationalDraughtsTeam4.InternationalDraughtsController" />
+      <module name="GameFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.internationalDraughtsTeam4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameModelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GameFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.java.model" />
+      <option name="MAIN_CLASS_NAME" value="main.java.model.GameModelTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameModelTest.getRequestor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GameFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.java.model" />
+      <option name="MAIN_CLASS_NAME" value="main.java.model.GameModelTest" />
+      <option name="METHOD_NAME" value="getRequestor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InternationalDraughtsBoardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GameFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.model.board.unitTestsTeam4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.java.model.board.unitTestsTeam4" />
+      <option name="MAIN_CLASS_NAME" value="main.java.model.board.unitTestsTeam4.InternationalDraughtsBoardTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomValidMoveStrategyTest.getRandVal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GameFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.internationalDraughtsTeam4.unitTestsTeam4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.java.internationalDraughtsTeam4.unitTestsTeam4" />
+      <option name="MAIN_CLASS_NAME" value="main.java.internationalDraughtsTeam4.unitTestsTeam4.RandomValidMoveStrategyTest" />
+      <option name="METHOD_NAME" value="getRandVal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InternationalDraughtsController" />
+        <item itemvalue="JUnit.GameModelTest" />
+        <item itemvalue="JUnit.InternationalDraughtsBoardTest" />
+        <item itemvalue="JUnit.GameModelTest.getRequestor" />
+        <item itemvalue="JUnit.RandomValidMoveStrategyTest.getRandVal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b108225-4e2e-4dd7-a613-c2fb5252e23f" name="Default Changelist" comment="" />
+      <created>1586588222909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586588222909</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="56" key="#Project_Structure" timestamp="1587796475924">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="233" y="56" key="#Project_Structure/0.0.1504.963@0.0.1504.963" timestamp="1587796475924" />
+    <state x="558" y="188" key="#com.intellij.ide.util.MemberChooser" timestamp="1587797624309">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="558" y="188" key="#com.intellij.ide.util.MemberChooser/0.0.1504.963@0.0.1504.963" timestamp="1587797624309" />
+    <state x="483" y="228" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586924232123">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="483" y="228" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1504.963@0.0.1504.963" timestamp="1586924232123" />
+    <state x="533" y="199" key="FileChooserDialogImpl" timestamp="1587857345672">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="533" y="199" key="FileChooserDialogImpl/0.0.1504.963@0.0.1504.963" timestamp="1587857345672" />
+    <state width="1461" height="347" key="GridCell.Tab.0.bottom" timestamp="1587956068043">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1461" height="347" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1587956068043" />
+    <state width="1461" height="347" key="GridCell.Tab.0.center" timestamp="1587956068043">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1461" height="347" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1587956068043" />
+    <state width="1461" height="347" key="GridCell.Tab.0.left" timestamp="1587956068043">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1461" height="347" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1587956068043" />
+    <state width="1461" height="347" key="GridCell.Tab.0.right" timestamp="1587956068043">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1461" height="347" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1587956068043" />
+    <state width="1461" height="317" key="GridCell.Tab.1.bottom" timestamp="1587899214412">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1461" height="317" key="GridCell.Tab.1.bottom/0.0.1504.963@0.0.1504.963" timestamp="1587899214412" />
+    <state width="1461" height="317" key="GridCell.Tab.1.center" timestamp="1587899214412">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1461" height="317" key="GridCell.Tab.1.center/0.0.1504.963@0.0.1504.963" timestamp="1587899214412" />
+    <state width="1461" height="317" key="GridCell.Tab.1.left" timestamp="1587899214412">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1461" height="317" key="GridCell.Tab.1.left/0.0.1504.963@0.0.1504.963" timestamp="1587899214412" />
+    <state width="1461" height="317" key="GridCell.Tab.1.right" timestamp="1587899214412">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1461" height="317" key="GridCell.Tab.1.right/0.0.1504.963@0.0.1504.963" timestamp="1587899214412" />
+    <state x="428" y="186" width="651" height="591" key="NewModule_or_Project.wizard" timestamp="1587263130529">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="428" y="186" width="651" height="591" key="NewModule_or_Project.wizard/0.0.1504.963@0.0.1504.963" timestamp="1587263130529" />
+    <state x="254" y="126" key="SettingsEditor" timestamp="1586936923183">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="254" y="126" key="SettingsEditor/0.0.1504.963@0.0.1504.963" timestamp="1586936923183" />
+    <state x="488" y="373" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1587545919726">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="488" y="373" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1504.963@0.0.1504.963" timestamp="1587545919726" />
+    <state x="507" y="150" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1587942615561">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="507" y="150" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1504.963@0.0.1504.963" timestamp="1587942615561" />
+    <state x="303" y="193" key="new project wizard" timestamp="1587857411448">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="303" y="193" key="new project wizard/0.0.1504.963@0.0.1504.963" timestamp="1587857411448" />
+    <state x="459" y="313" width="672" height="678" key="search.everywhere.popup" timestamp="1587540723410">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="459" y="313" width="672" height="678" key="search.everywhere.popup/0.0.1504.963@0.0.1504.963" timestamp="1587540723410" />
+  </component>
+</project>
